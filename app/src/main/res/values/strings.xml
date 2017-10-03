@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="stringTeamAName">barcelona</string>
+    <string name="stringTeamBName">Real Madrid</string>
+    <string name="stringGoal">Goal</string>
+    <string name="stringFoul">Foul</string>
+</resources>
